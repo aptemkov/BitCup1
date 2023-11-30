@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BitCup1</string>
+    <string name="login_button_description">Login button</string>
+    <string name="success">Success</string>
+    <string name="try_again">Try Again</string>
+    <string name="login">Login</string>
+    <string name="animated_button_color_description">Animated button color</string>
+</resources>
